@@ -19,7 +19,7 @@ public class LoginForm extends JFrame implements ActionListener {
 	Font myfont = new Font("arial", Font.BOLD, 35);
 	
 	LoginForm() {
-		setTitle("Komal Application Login Form");
+		setTitle("Muppidathi Application Login Form");
 		setLayout(null);
 
 		tit = new JLabel("Login Form");
