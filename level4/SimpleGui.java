@@ -16,7 +16,7 @@ public class SimpleGui extends JFrame implements ActionListener {
     SimpleGui() {
 
         setLayout(null);
-        setTitle("Komal Application");
+        setTitle("Muppidathi Application");
 
         l1 = new JLabel("Enter RegisterNumber : ");
         l2 = new JLabel("Enter Student Name : ");
